@@ -1,0 +1,42 @@
+{
+    "en": {
+        "source_prompt": "Please enter the source folder address: ",
+        "destination_prompt": "Please enter the destination folder address for extraction: ",
+        "source_not_exist": "The source directory provided does not exist.",
+        "destination_not_exist": "The destination directory provided does not exist.",
+        "destination_created": "Destination directory created: ",
+        "no_zip_found": "No .zip files were found in the source folder and subfolders.",
+        "extracting": "Extracting {0} to {1}",
+        "extraction_complete": "All files have been successfully extracted to the destination directory."
+    },
+    "pt": {
+        "source_prompt": "Por favor, insira o endereço da pasta local de origem: ",
+        "destination_prompt": "Por favor, insira o endereço da pasta de destino para descompactação: ",
+        "source_not_exist": "O diretório de origem fornecido não existe.",
+        "destination_not_exist": "O diretório de destino fornecido não existe.",
+        "destination_created": "Diretório de destino criado: ",
+        "no_zip_found": "Não foram encontrados arquivos .zip na pasta e subpastas de origem.",
+        "extracting": "Descompactando {0} para {1}",
+        "extraction_complete": "Todos os arquivos foram descompactados com sucesso no diretório de destino."
+    },
+    "es": {
+        "source_prompt": "Por favor, introduzca la dirección de la carpeta fuente: ",
+        "destination_prompt": "Por favor, introduzca la dirección de la carpeta de destino para la extracción: ",
+        "source_not_exist": "El directorio fuente proporcionado no existe.",
+        "destination_not_exist": "El directorio de destino proporcionado no existe.",
+        "destination_created": "Directorio de destino creado: ",
+        "no_zip_found": "No se encontraron archivos .zip en la carpeta fuente y subcarpetas.",
+        "extracting": "Extrayendo {0} a {1}",
+        "extraction_complete": "Todos los archivos han sido extraídos exitosamente al directorio de destino."
+    },
+    "zh": {
+        "source_prompt": "请输入源文件夹地址：",
+        "destination_prompt": "请输入解压目标文件夹地址：",
+        "source_not_exist": "提供的源目录不存在。",
+        "destination_not_exist": "提供的目标目录不存在。",
+        "destination_created": "已创建目标目录：",
+        "no_zip_found": "在源文件夹和子文件夹中未找到.zip文件。",
+        "extracting": "正在将 {0} 解压到 {1}",
+        "extraction_complete": "所有文件均已成功解压到目标目录。"
+    }
+}
