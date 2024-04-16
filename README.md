@@ -24,7 +24,7 @@ This program aids you in unzipping files located in a specified directory and al
 
 - Multilingual support.
 - Automatic checking and installation of dependencies.
-- User-friendly interface with ASCII art logo and informative panels.
+- User-friendly interface
 - Unzips all `.zip` files found in the specified directory and its subdirectories.
 
 ## Installation
@@ -33,22 +33,22 @@ Ensure you have Python 3.8+ installed on your system. To install UnzipIT, follow
 
 1. Clone the repository:
 
-git clone https://github.com/StonyBaboon/UnzipIT.git
+```git clone https://github.com/StonyBaboon/UnzipIT.git```
 
 2. Navigate to the project directory:
 
-cd UnzipIT
+```cd UnzipIT```
 
 3. Install the necessary dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 ## Usage
 
 To run the program, navigate to the project directory and execute:
 
-python unzipit.py
+```python unzipit.py```
 
 
 Follow the interactive prompts to select the language and specify the source and destination directories.
